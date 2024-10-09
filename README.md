@@ -1,10 +1,10 @@
 # [Professor's Name] Website
 
-Welcome to the official website of **[Professor's Full Name]**, hosted on GitHub. This website contains information about [Professor's Name]'s research, publications, teaching, and more.
+Welcome to the official website of **Prabir Daripa**, hosted on GitHub. This website contains information about Prabir Daripa's research, publications, teaching, and more.
 
 ## About
 
-**[Professor's Name]** is a professor in the [Department Name] at [University Name]. His/Her research focuses on [Research Areas or Specializations]. This site provides an overview of [his/her] academic journey, contributions to [fields], and available resources for students and collaborators.
+**Prabir Daripa** is a professor in the Mathematics at Texas A&M University. His/Her research focuses on [Research Areas or Specializations]. This site provides an overview of [his/her] academic journey, contributions to [fields], and available resources for students and collaborators.
 
 ## Table of Contents
 
