@@ -1,4 +1,4 @@
-# [Professor's Name] Website
+# Prabir Daripa Website
 
 Welcome to the official website of **Prabir Daripa**, hosted on GitHub. This website contains information about Prabir Daripa's research, publications, teaching, and more.
 
